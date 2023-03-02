@@ -6127,5 +6127,12 @@
         "author": "Mixa Team",
         "description": "Publish your notes and blog posts with Mixa directly from Obsidian",
         "repo": "mixasite/obsidian-mixa"
+    },
+    {
+        "id": "obsidian-read-time-plugin",
+        "name": "Words to Read Time",
+        "author": "ryanschiang",
+        "description": "Converts word count to reading time for video scripts, voice overs, or estimating reading time.",
+        "repo": "ryanschiang/obsidian-read-time-plugin"
     }
 ]
